@@ -1,6 +1,7 @@
 # BlenderModelsCollection-Screenshots-
 A collection of blender models designed by me
-https://github.com/Tiberius2/BlenderModelsCollection-Screenshots-/blob/main/Knives.jpeg
+
+![Knives](https://github.com/user-attachments/assets/7195f791-72b1-48a7-9547-99f22d098d09)
 ![RickandMortyGarage](https://github.com/Tiberius2/BlenderModelsCollection-Screenshots-/assets/58856795/29868611-11f9-44e8-a8e5-d4bdb6aabff8)
 ![ROOM1SCREENSHOT](https://github.com/Tiberius2/BlenderModelsCollection-Screenshots-/assets/58856795/486d54ce-091a-40ca-9a34-d3a6ea886215)
 ![ROOM2SCREENSHOT](https://github.com/Tiberius2/BlenderModelsCollection-Screenshots-/assets/58856795/df0e76e8-1d73-479e-b468-006f801330ac)
